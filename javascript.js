@@ -177,5 +177,9 @@ function submitReview(){
         s.classList.remove('fas', 'active');
         s.classList.add('far');
     });
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 020dacafc00b508ed1407bfd1b30f11f6d72ccd3
